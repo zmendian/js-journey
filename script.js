@@ -1,1 +1,0 @@
-alert("Day 0 completed");
